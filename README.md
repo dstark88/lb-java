@@ -1,6 +1,8 @@
 # lb-java
 # http://localhost:4567/hello
 
+# You'll need to do an $mvn install in the command line
+
 # https://spring.io/guides/gs/maven/
 # I found this site the most usefull for getting me started from the very begaining. 
 After downloading JDK8 and the VS Code extentions, I needed this to figure out how to download Mavern. This talked me through
